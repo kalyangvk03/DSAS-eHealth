@@ -11,9 +11,9 @@ DSAS (Secure Data Sharing and Authorized Searchable) is a secure data-sharing sy
 
 ## 🛠️ Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Java (Servlets/JSP), Spring Boot (if applicable)  
-- **Database:** MySQL / MongoDB  
-- **Security:** AES/RSA Encryption  
+- **Backend:** Java (Servlets/JSP)
+- **Database:** MySQL 
+- **Security:** AES Encryption  
 
 ## 🔧 Installation & Setup  
 1. Clone the repository:  
